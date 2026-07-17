@@ -1,0 +1,8 @@
+{
+  "name": "IPS-SMT",
+  "description": "Smart Meeting Management and Action Item Tracking System for IPS professionals, featuring AI-powered transcription structuring and project-based history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
